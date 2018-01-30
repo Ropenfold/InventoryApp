@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the size drop-down Spinner -->
+    <string-array name="array_size_options">
+        <item>@string/size_universal</item>
+        <item>@string/size_adults</item>
+        <item>@string/size_youths</item>
+    </string-array>
+
+    <!-- These are the options displayed in the handedness drop-down Spinner-->
+    <string-array name="array_handedness_options">
+        <item>@string/handedness_ambidextrous</item>
+        <item>@string/handedness_right</item>
+        <item>@string/handedness_left</item>
+    </string-array>
+
+</resources>
